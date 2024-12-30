@@ -1,0 +1,17 @@
+2024-12-30 23:51:48,269 - INFO - ETL process started.
+2024-12-30 23:51:48,270 - INFO - Starting data extraction...
+2024-12-30 23:51:48,278 - INFO - Extracted data from source1.csv.
+2024-12-30 23:51:48,286 - INFO - Extracted data from source1.json.
+2024-12-30 23:51:48,294 - INFO - Extracted data from source1.xml.
+2024-12-30 23:51:48,296 - INFO - Extracted data from source2.csv.
+2024-12-30 23:51:48,298 - INFO - Extracted data from source2.json.
+2024-12-30 23:51:48,299 - INFO - Extracted data from source2.xml.
+2024-12-30 23:51:48,302 - INFO - Extracted data from source3.csv.
+2024-12-30 23:51:48,303 - INFO - Extracted data from source3.json.
+2024-12-30 23:51:48,304 - INFO - Extracted data from source3.xml.
+2024-12-30 23:51:48,304 - INFO - Data extraction completed.
+2024-12-30 23:51:48,305 - INFO - Starting data transformation...
+2024-12-30 23:51:48,307 - INFO - Data transformation completed.
+2024-12-30 23:51:48,307 - INFO - Loading data to ./output/transformed_data.csv...
+2024-12-30 23:51:48,309 - INFO - Data loading completed.
+2024-12-30 23:51:48,309 - INFO - ETL process completed successfully.
